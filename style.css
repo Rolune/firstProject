@@ -1,0 +1,22 @@
+/*This is my Comment*/
+/*Class level Declaration*/
+.greenClass
+{
+    color: green;
+}
+/*ID level Declaration*/
+#headingID{
+    background-color: brown;
+}
+
+p {
+    background-color: yellow;
+    color: red;
+    border: 1px solid white;
+    padding: 10px;
+    font-family: cursive;
+}
+
+div.red{
+    background-color: red;
+}
